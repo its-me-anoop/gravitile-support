@@ -45,3 +45,5 @@ We will publish changes here with an updated effective date. If an app update ch
 Email: [anoopjose.flutterly@gmail.com](mailto:anoopjose.flutterly@gmail.com)
 
 Support: [Little Lifeline support](https://github.com/its-me-anoop/gravitile-support)
+
+App Store: [Little Lifeline](https://apps.apple.com/app/id6786840477)
